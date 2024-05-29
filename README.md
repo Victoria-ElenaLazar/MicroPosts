@@ -14,6 +14,8 @@ Symfony Framework, using Symfony Console, Bundles and Migrations.
 
 -[Authentication](#authentication)
 
+-[Project Demo](#project-demo)
+
 
 
 ## Features
@@ -102,4 +104,9 @@ You will have limited access on the Home Page. In order to have full access you 
 
 **Mail catcher:** Open the Mail Catcher in port 1080 to confirm the email address and login again. 
 
+## Project Demo
+
+[Watch the video](public/Micro-Post.mov)
+
+Or [download the video](public/Micro-Post.mov) to watch it.
 
