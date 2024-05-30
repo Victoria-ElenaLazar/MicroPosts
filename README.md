@@ -1,3 +1,4 @@
+
 # MicroPosts
 
 ## Overview
@@ -106,7 +107,7 @@ You will have limited access on the Home Page. In order to have full access you 
 
 ## Project Demo
 
+
 [Watch the video](public/Micro-Posts.mov)
 
 Or [download the video](public/Micro-Posts.mov) to watch it.
-
