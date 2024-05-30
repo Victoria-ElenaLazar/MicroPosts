@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # MicroPosts
 
 ## Overview
@@ -111,5 +110,3 @@ You will have limited access on the Home Page. In order to have full access you 
 [Watch the video](public/Micro-Post.mov)
 
 Or [download the video](public/Micro-Post.mov) to watch it.
-
->>>>>>> 3804645970605c52d7ae18f25017bd82f5f77deb
