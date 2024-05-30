@@ -107,6 +107,6 @@ You will have limited access on the Home Page. In order to have full access you 
 
 ## Project Demo
 
-[Watch the video](/public/Micro-Post.mov)
+[Watch the video](/public/Micro-Posts.mov)
 
-Or [download the video](/public/Micro-Post.mov) to watch it.
+Or [download the video](/public/Micro-Posts.mov) to watch it.
