@@ -108,6 +108,6 @@ You will have limited access on the Home Page. In order to have full access you 
 ## Project Demo
 
 
-[Watch the video](public/Micro-Posts.mov)
+[Watch the video](public/job-board.mov)
 
-Or [download the video](public/Micro-Posts.mov) to watch it.
+Or [download the video](public/job-board.mov) to watch it.
